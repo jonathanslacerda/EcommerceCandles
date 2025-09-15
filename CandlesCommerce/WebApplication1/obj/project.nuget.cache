@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM3z43yqVaQ=",
+  "success": true,
+  "projectFilePath": "E:\\MyBusiness\\EcommerceCandles\\CandlesCommerce\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
